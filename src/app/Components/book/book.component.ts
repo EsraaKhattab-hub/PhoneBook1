@@ -60,8 +60,6 @@ export class BookComponent implements OnInit {
       }
     );
    
-
-    // this.PhoneNumber.push(this.Person.PhoneNumber);
   }
 
 
